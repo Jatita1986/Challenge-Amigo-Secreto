@@ -21,9 +21,7 @@ Proyecto Alura Amigo secreto
 3. Presiona el botón de Sortear Amigo para seleccionar un amigo secreto.  
 4. ¡Descubre quién es tu amigo secreto!  
 
-## Contribuciones  
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, puedes seguir estos pasos:  
 
 ## Agradecimientos  
-Agradezco a Alura por el material didáctico que ha permitido el desarrollo de este proyecto. También agradezco mi dispocision y empeño, igualmente a mi esposa que han aportado a la realización del mismo.  
+Agradezco a Alura por el material didáctico que ha permitido el desarrollo de este proyecto. También agradezco mi dispocision y empeño, igualmente a mi esposa que me ha aguantado en estos dias que he estado inmersa en este proyecto y me ha brindado su paciencia y comprension.  
 
